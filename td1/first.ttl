@@ -1,0 +1,44 @@
+@base <http://personne.fr/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix info: <http://personne.fr/info#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix : <http://www.defaultNameSpace.fr/>. #default name space
+
+<margot.html>
+a info:Woman, info:Teacher;
+info:name "margot" ;
+info:year "32"^^xsd:integer;
+info:shoessize "38"^^xsd:integer;
+info:pantsize "40"^^xsd:integer;
+info:hasMother <simone.html>;
+info:isMarried <arthur.html>;
+info:hasChild <simon.html> , <marie.html>;
+info:hasColleague <alice.html> , <pierre.html>.
+
+<arthur.html>
+a info:Man;
+info:name "arthur";
+info:isMarried <margot.html>;
+info:hasChild <simon.html> , <marie.html>.
+
+<simon.html>
+a info:Man;
+info:name "simon";
+info:hasFather <arthur.html>;
+info:hasMother <margot.html>.
+
+<marie.html>
+a info:Woman;
+info:name "marie";
+info:hasFather <arthur.html>;
+info:hasMother <margot.html>.
+
+<alice.html>
+a info:Woman;
+info:name "alice";
+info:hasColleague <margot.html>, <pierre.html>.
+
+<pierre.html>
+a info:Man;
+info:name "pierre";
+info:hasColleague <margot.html>, <alice.html>.

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://personne.fr/info#">
+
+  <rdf:Description rdf:about="http://personne.fr/margot.html">
+    <rdf:type rdf:resource="http://personne.fr/info#woman"/>
+    <rdf:type rdf:resource="http://personne.fr/info#teacher"/>
+    <ns0:name>margot</ns0:name>
+    <ns0:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ns0:year>
+    <ns0:shoessize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ns0:shoessize>
+    <ns0:pantsize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns0:pantsize>
+    <ns0:mother rdf:resource="http://personne.fr/simone.html"/>
+    <ns0:married rdf:resource="http://personne.fr/arthur.html"/>
+    <ns0:child rdf:resource="http://personne.fr/simon.html"/>
+    <ns0:child rdf:resource="http://personne.fr/marie.html"/>
+    <ns0:colleague rdf:resource="http://personne.fr/alice.html"/>
+    <ns0:colleague rdf:resource="http://personne.fr/pierre.html"/>
+  </rdf:Description>
+
+  <ns0:man rdf:about="http://personne.fr/arthur.html">
+    <ns0:name>arthur</ns0:name>
+    <ns0:married rdf:resource="http://personne.fr/margot.html"/>
+    <ns0:child rdf:resource="http://personne.fr/simon.html"/>
+    <ns0:child rdf:resource="http://personne.fr/marie.html"/>
+  </ns0:man>
+
+  <ns0:man rdf:about="http://personne.fr/simon.html">
+    <ns0:name>simon</ns0:name>
+    <ns0:father rdf:resource="http://personne.fr/arthur.html"/>
+    <ns0:mother rdf:resource="http://personne.fr/margot.html"/>
+  </ns0:man>
+
+  <ns0:woman rdf:about="http://personne.fr/marie.html">
+    <ns0:name>marie</ns0:name>
+    <ns0:father rdf:resource="http://personne.fr/arthur.html"/>
+    <ns0:mother rdf:resource="http://personne.fr/margot.html"/>
+  </ns0:woman>
+
+  <ns0:woman rdf:about="http://personne.fr/alice.html">
+    <ns0:name>alice</ns0:name>
+    <ns0:colleague rdf:resource="http://personne.fr/margot.html"/>
+    <ns0:colleague rdf:resource="http://personne.fr/pierre.html"/>
+  </ns0:woman>
+
+  <ns0:man rdf:about="http://personne.fr/pierre.html">
+    <ns0:name>pierre</ns0:name>
+    <ns0:colleague rdf:resource="http://personne.fr/margot.html"/>
+    <ns0:colleague rdf:resource="http://personne.fr/alice.html"/>
+  </ns0:man>
+
+</rdf:RDF>

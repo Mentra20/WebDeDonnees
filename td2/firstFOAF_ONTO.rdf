@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:ns0="http://personne.fr/info#">
+
+  <rdf:Description rdf:about="http://personne.fr/margot.html">
+    <rdf:type rdf:resource="http://personne.fr/info#Woman"/>
+    <rdf:type rdf:resource="http://personne.fr/info#Teacher"/>
+    <foaf:name>margot</foaf:name>
+    <foaf:age rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</foaf:age>
+    <ns0:shoessize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</ns0:shoessize>
+    <ns0:pantsize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</ns0:pantsize>
+    <ns0:hasMother rdf:resource="http://personne.fr/simone.html"/>
+    <ns0:isMarried rdf:resource="http://personne.fr/arthur.html"/>
+    <ns0:hasChild rdf:resource="http://personne.fr/simon.html"/>
+    <ns0:hasChild rdf:resource="http://personne.fr/marie.html"/>
+    <ns0:hasColleague rdf:resource="http://personne.fr/alice.html"/>
+    <ns0:hasColleague rdf:resource="http://personne.fr/pierre.html"/>
+  </rdf:Description>
+
+  <ns0:Man rdf:about="http://personne.fr/arthur.html">
+    <foaf:name>arthur</foaf:name>
+    <ns0:isMarried rdf:resource="http://personne.fr/margot.html"/>
+    <ns0:hasChild rdf:resource="http://personne.fr/simon.html"/>
+    <ns0:hasChild rdf:resource="http://personne.fr/marie.html"/>
+  </ns0:Man>
+
+  <ns0:Man rdf:about="http://personne.fr/simon.html">
+    <foaf:name>simon</foaf:name>
+    <ns0:hasFather rdf:resource="http://personne.fr/arthur.html"/>
+    <ns0:hasMother rdf:resource="http://personne.fr/margot.html"/>
+  </ns0:Man>
+
+  <ns0:Woman rdf:about="http://personne.fr/marie.html">
+    <foaf:name>marie</foaf:name>
+    <ns0:hasFather rdf:resource="http://personne.fr/arthur.html"/>
+    <ns0:hasMother rdf:resource="http://personne.fr/margot.html"/>
+  </ns0:Woman>
+
+  <ns0:Woman rdf:about="http://personne.fr/alice.html">
+    <foaf:name>alice</foaf:name>
+    <ns0:hasColleague rdf:resource="http://personne.fr/margot.html"/>
+    <ns0:hasColleague rdf:resource="http://personne.fr/pierre.html"/>
+  </ns0:Woman>
+
+  <ns0:Man rdf:about="http://personne.fr/pierre.html">
+    <foaf:name>pierre</foaf:name>
+    <ns0:hasColleague rdf:resource="http://personne.fr/margot.html"/>
+    <ns0:hasColleague rdf:resource="http://personne.fr/alice.html"/>
+  </ns0:Man>
+
+</rdf:RDF>

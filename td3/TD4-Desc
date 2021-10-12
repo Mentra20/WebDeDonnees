@@ -1,0 +1,129 @@
+Question 1 
+Avec le construct: 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+construct {?x rdfs:seeAlso ?z} where {
+  ?x h:shirtsize ?y
+  ?z h:shirtsize ?y
+  filter(?x != ?z)
+}
+
+avec le insert : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+insert {?x rdfs:seeAlso ?z} where {
+  ?x h:shirtsize ?y
+  ?z h:shirtsize ?y
+  filter(?x != ?z)
+}
+
+Question 2 :
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select * where {
+  ?x rdfs:seeAlso ?y
+}
+
+puis avec le construct 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+construct {  ?x rdfs:seeAlso ?y } where {
+  ?x rdfs:seeAlso ?y
+}
+
+Question 3:
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select * where {
+  ?x h:hasChild+ ?y
+}
+
+Question 4:
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select * where {
+  ?x h:hasChild+ ?y
+minus{?x h:hasChild ?y}
+}
+
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+construct {?x h:hasDescendant ?y} where {
+  ?x h:hasChild+ ?y
+minus{?x h:hasChild ?y}
+}
+
+Question 5 :
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select (max(?y) as ?max) where {
+  ?x h:shoesize ?y
+}
+
+Pour retrouver la resource : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select ?w where{
+?w h:shoesize ?max
+	{select (max(?y) as ?max) where {
+  	?x h:shoesize ?y
+	}}	
+}
+
+Question 6: 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select (avg(?y) as ?avg) where {
+  ?x h:shoesize ?y
+}
+
+Avec le check : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select ((?sum/?count) as ?result) where {
+{select (count(?y) as ?count) where {
+  ?x h:shoesize ?y
+}}
+
+{select (sum(?y) as ?sum) where {
+  ?x h:shoesize ?y
+}}
+}
+
+Ou alors : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select ((sum(?y)/count(?y)) as ?result) where {
+	?x h:shoesize ?y
+}
+
+Question 7:
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select ?x ?y where {
+  ?x h:hasSpouse ?y
+minus{?x h:hasChild ?z}
+minus{?y h:hasChild ?w}
+}
+
+Question 8 :
+Creation : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+insert data {
+<http://www.inria.fr/2007/09/11/humans.rdfs-instances#Yann> h:age 22
+}
+
+Verification :
+describe <http://www.inria.fr/2007/09/11/humans.rdfs-instances#Yann>
+
+Question 9 :
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+delete {?x ?y ?z} where {
+?x ?y ?z
+filter(?x = <http://www.inria.fr/2007/09/11/humans.rdfs-instances#Yann>)
+}
+
+Question 10 :  
+clique sur le lien ...

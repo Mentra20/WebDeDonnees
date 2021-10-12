@@ -1,0 +1,125 @@
+Question 1
+La requête calcule tout les valeurs qui commence par le préfixe h et renvoie l'URI et la valeur.
+On obtient 40 résultats.
+John est un Animal->Person et un Male.
+
+Question 2
+Cette requête permet de récupérer tout les couples (dans les deux sens).
+On obtient 6 résultats.
+
+Question 3 
+La propriété pour les shoesize est : 
+<rdf:Property rdf:ID="shoesize">
+  <domain rdf:resource="#Person"/>
+  <label xml:lang="en">shoe size</label>
+  <label xml:lang="fr">pointure</label>
+  <comment xml:lang="en">express in some way the approximate length of the shoes for a person.</comment>
+  <comment xml:lang="fr">taille, exprimée en points, des chaussures d'une personne.</comment>
+</rdf:Property>
+
+La requête est : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+select * where { ?x h:shoesize ?y } 
+
+La requête est : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+select * where { 
+?x h:shoesize ?y
+?x h:shirtsize ?z
+filter(?y > 8 || ?z > 12)} 
+
+Question 4 
+La requête est : 
+prefix john: <http://www.inria.fr/2007/09/11/humans.rdfs-instances#John>
+select ?v where { 
+john: ?p ?v} 
+
+La requête est : 
+prefix john: <http://www.inria.fr/2007/09/11/humans.rdfs-instances#John>
+select * where { 
+john: ?p ?v} 
+
+Question 5
+La propriété hasChild est : 
+<rdf:Property rdf:ID="hasChild">
+  <label xml:lang="en">has for child</label>
+  <comment xml:lang="en">relation between an animal and another animal to which it gave birth.</comment>
+  <label xml:lang="fr">a pour enfant</label>
+  <comment xml:lang="fr">relation entre un animal et un autre animal auquel il a donné naissance.</comment>
+</rdf:Property> 
+
+La requête est : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select ?x where { 
+?x h:hasChild ?v
+} 
+5 résultats.
+
+La requête est : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select distinct ?x where { 
+?x h:hasChild ?v }
+4 résultats.
+
+La requête est : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select distinct ?x where { 
+?x a h:Man
+filter not exists {
+?x h:hasChild ?v 
+} }
+
+Question 6 
+La propriété age : 
+<rdf:Property rdf:ID="age">
+  <label xml:lang="en">age</label>
+  <label xml:lang="fr">âge</label>
+  <comment xml:lang="en">complete existence duration.</comment>
+  <comment xml:lang="fr">durée complète d'existence.</comment>
+</rdf:Property>
+
+La requête est : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select ?x where { 
+?x h:age ?v filter (?v <= 18)
+} 
+2 résultats.
+
+La requête de demande est : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+prefix mark: <http://www.inria.fr/2007/09/11/humans.rdfs-instances#Mark>
+
+ask { 
+mark: h:age ?v filter (?v <= 18)
+} 
+
+Question 7 
+La requête est : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select ?x ?z where { 
+?x h:shirtsize ?val1
+?z h:shirtsize ?val1
+filter (?x != ?z)
+} 
+
+Question 8
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+select ?y ?x where { 
+?x h:hasFriend ?y
+} 
+
+Question 9 
+
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+
+construct {?y h:hasFriend ?x} where { 
+?x h:hasFriend ?y
+}
+
+Question 10

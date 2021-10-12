@@ -1,0 +1,61 @@
+Question 1:
+
+select distinct ?Actor where {
+?Actor ?x ?y
+filter(?Actor = <http://dbpedia.org/resource/Tom_Hanks>)
+} LIMIT 100Q
+
+
+Question 2 :
+
+prefix tom:<http://dbpedia.org/resource/Tom_Hanks>
+prefix onto:<http://dbpedia.org/ontology/>
+
+select ?film where {
+?film onto:starring tom:
+}
+
+Question 3 :
+
+prefix tom:<http://dbpedia.org/resource/Tom_Hanks>
+prefix onto:<http://dbpedia.org/ontology/>
+prefix prop:<http://dbpedia.org/property/>
+
+select ?filmName where {
+?film onto:starring tom: .
+?film prop:title ?filmName 
+filter(lang(?filmName) = "en")
+}
+
+Question 4 :
+prefix tom:<http://dbpedia.org/resource/Tom_Hanks>
+prefix onto:<http://dbpedia.org/ontology/>
+
+select distinct ?actor where {
+?film onto:starring tom:.
+?film onto:starring ?actor
+filter(?actor != tom:)
+}
+
+Question 5.1 : 
+prefix tom:<http://dbpedia.org/resource/Tom_Hanks>
+prefix onto:<http://dbpedia.org/ontology/>
+
+select (count(distinct ?actor) as ?count) where {
+?film onto:starring tom:.
+?film onto:starring ?actor.
+?actor a onto:Person
+filter(?actor != tom:)
+}
+
+Question 5.2 :
+prefix tom:<http://dbpedia.org/resource/Tom_Hanks>
+prefix onto:<http://dbpedia.org/ontology/>
+
+select ?actor ?nbFilm where {
+{select ?actor (count(distinct ?film) as ?nbFilm) where {  
+?film onto:starring tom:.
+?film onto:starring ?actor.
+?actor a onto:Person
+filter(?actor != tom:)
+}}

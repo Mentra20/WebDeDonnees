@@ -1,0 +1,62 @@
+@base <http://personne.fr/info#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>. 
+
+<Person> a rdfs:Class;
+    rdfs:subClassOf foaf:Person;
+    rdfs:label "person"@en, "personne"@fr ;
+    rdfs:comment "a person"@en .
+
+<Female> a rdfs:Class.
+<Male> a rdfs:Class.
+
+<Teacher> a rdfs:Class;
+    rdfs:subClassOf <Person>.
+
+<Man> a rdfs:Class;
+    rdfs:subClassOf <Person>, <Male>;
+    rdfs:label "man"@en, "homme"@fr ;
+    rdfs:comment "a male person"@en .
+
+<Woman> a rdfs:Class;
+    rdfs:subClassOf <Person>, <Female>;
+    rdfs:label "woman"@en, "femme"@fr ;
+    rdfs:comment "a female person"@en .
+
+<hasParent> a rdf:Property;
+    rdfs:domain <Person>;
+    rdfs:range <Person>.
+
+<hasFather> a rdf:Property;
+    rdfs:subPropertyOf <hasParent>;
+    rdfs:range <Man>.
+
+<hasMother> a rdf:Property;
+    rdfs:subPropertyOf <hasParent>;
+    rdfs:range <Woman>.
+
+<hasChild> a rdf:Property;
+    rdfs:domain <Person>;
+    rdfs:range <Person>.
+
+<isMarried> a rdf:Property;
+    rdfs:domain <Person>;
+    rdfs:range <Person>.
+
+<hasColleague> a rdf:Property;
+    rdfs:domain <Person>;   
+    rdfs:range <Person>.
+
+<name> a rdf:Property;
+    rdfs:range xsd:string.
+
+<year> a rdf:Property;
+    rdfs:range xsd:integer.
+
+<shoessize> a rdf:Property;
+    rdfs:range xsd:integer.
+
+<pantsize> a rdf:Property;
+    rdfs:range xsd:integer.

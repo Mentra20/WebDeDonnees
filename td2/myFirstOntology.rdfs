@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <rdfs:Class rdf:about="http://personne.fr/Person">
+    <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdfs:label xml:lang="en">person</rdfs:label>
+    <rdfs:label xml:lang="fr">personne</rdfs:label>
+    <rdfs:comment xml:lang="en">a person</rdfs:comment>
+  </rdfs:Class>
+
+  <rdfs:Class rdf:about="http://personne.fr/Female">
+  </rdfs:Class>
+
+  <rdfs:Class rdf:about="http://personne.fr/Male">
+  </rdfs:Class>
+
+  <rdfs:Class rdf:about="http://personne.fr/Teacher">
+    <rdfs:subClassOf rdf:resource="http://personne.fr/Person"/>
+  </rdfs:Class>
+
+  <rdfs:Class rdf:about="http://personne.fr/Man">
+    <rdfs:subClassOf rdf:resource="http://personne.fr/Person"/>
+    <rdfs:subClassOf rdf:resource="http://personne.fr/Male"/>
+    <rdfs:label xml:lang="en">man</rdfs:label>
+    <rdfs:label xml:lang="fr">homme</rdfs:label>
+    <rdfs:comment xml:lang="en">a male person</rdfs:comment>
+  </rdfs:Class>
+
+  <rdfs:Class rdf:about="http://personne.fr/Woman">
+    <rdfs:subClassOf rdf:resource="http://personne.fr/Person"/>
+    <rdfs:subClassOf rdf:resource="http://personne.fr/Female"/>
+    <rdfs:label xml:lang="en">woman</rdfs:label>
+    <rdfs:label xml:lang="fr">femme</rdfs:label>
+    <rdfs:comment xml:lang="en">a female person</rdfs:comment>
+  </rdfs:Class>
+
+  <rdf:Property rdf:about="http://personne.fr/hasParent">
+    <rdfs:domain rdf:resource="http://personne.fr/Person"/>
+    <rdfs:range rdf:resource="http://personne.fr/Person"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/hasFather">
+    <rdfs:subPropertyOf rdf:resource="http://personne.fr/hasParent"/>
+    <rdfs:range rdf:resource="http://personne.fr/Man"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/hasMother">
+    <rdfs:subPropertyOf rdf:resource="http://personne.fr/hasParent"/>
+    <rdfs:range rdf:resource="http://personne.fr/Woman"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/hasChild">
+    <rdfs:domain rdf:resource="http://personne.fr/Person"/>
+    <rdfs:range rdf:resource="http://personne.fr/Person"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/isMarried">
+    <rdfs:domain rdf:resource="http://personne.fr/Person"/>
+    <rdfs:range rdf:resource="http://personne.fr/Person"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/hasColleague">
+    <rdfs:domain rdf:resource="http://personne.fr/Person"/>
+    <rdfs:range rdf:resource="http://personne.fr/Person"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/name">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/year">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/shoessize">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Property>
+
+  <rdf:Property rdf:about="http://personne.fr/pantsize">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Property>
+
+</rdf:RDF>
