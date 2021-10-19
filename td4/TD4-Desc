@@ -163,7 +163,7 @@ select *
 where {
   service <http://dbpedia.org/sparql/> {
 	select distinct ?director where {
-		?film !onto:starring tom:.
+		minus{?film onto:starring tom:}
 		?film onto:director ?director.
 		?director a onto:Person
 	}

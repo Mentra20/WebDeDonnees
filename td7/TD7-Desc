@@ -1,0 +1,59 @@
+
+subClassOf : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+construct { ?x a h:Male}
+where {
+  ?x a h:Man
+}
+
+range : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+construct { ?y a h:Female}
+where {
+  ?x h:hasMother ?y
+}
+
+domain : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+construct { ?x a h:Human}
+where {
+  ?x h:hasParent ?y
+}
+
+subPropertyOf : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+construct { ?x h:hasParent ?y}
+where {
+  ?x h:hasFather ?y
+}
+
+hasSpouseReverse :
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+construct { ?y h:hasSpouseReverse ?x}
+where {
+  ?x h:hasSpouse ?y
+}
+
+hasChild hasParent : 
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+construct { ?y h:hasChild  ?x. ?x h:hasParent ?y.?e h:hasParent  ?z. ?z h:hasChild ?e}
+where {
+  ?x h:hasParent  ?y
+  ?z h:hasChild  ?e
+}
+
+hasGrandParent :
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+construct { ?y h:hasGrandParent  ?x. ?v h:hasGrandParent ?w}
+where {
+  ?x h:hasChild/h:hasChild  ?y
+  ?v h:hasParent/h:hasParent ?w
+}
+
+Adult
+prefix h: <http://www.inria.fr/2007/09/11/humans.rdfs#>
+construct { ?x a h:Adult}
+where {
+  ?x h:age  ?age
+  filter(?age>18)
+}
