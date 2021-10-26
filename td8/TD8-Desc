@@ -1,0 +1,59 @@
+Quel est l’URI du concept SKOS qui désigne la musique répétitive dans le thesaurus de la BNF ?
+https://data.bnf.fr/ark:/12148/cb12513214g
+
+Quel est son label préféré en français ? (n’utilisez pas de guillemet dans votre réponse)
+    <skos:prefLabel xml:lang="fr">Musique répétitive</skos:prefLabel>
+
+Combien y a-t-il de labels alternatifs ?
+    <skos:altLabel xml:lang="fr">Musique minimaliste</skos:altLabel>
+    <skos:altLabel xml:lang="fr">Minimal music</skos:altLabel>
+    <skos:altLabel xml:lang="fr">Minimalisme (musique)</skos:altLabel>
+    <skos:altLabel xml:lang="fr">Musique minimale</skos:altLabel>
+
+Des deux concepts plus généraux que la musique répétitive, quel est l’URI de celui dont un label alternatif est "Musique contemporaine" ?
+    <skos:broader rdf:resource="https://data.bnf.fr/ark:/12148/cb12192309w"/>
+
+Quel est l’URI du concept en relation simple avec celui de la musique répétitive dans le thesaurus de la BNF ?
+    <skos:related rdf:resource="https://data.bnf.fr/ark:/12148/cb12272860s"/>
+
+Quel est le label préféré de ce concept relié à la musique répétitive dans le thesaurus de la BNF ?
+    <skos:prefLabel xml:lang="fr">Répétition (esthétique)</skos:prefLabel>
+
+Quel est l’URI du concept dans le thesaurus de la bibliothèque nationale allemande qui est déclaré comme très proche (correspondant) de celui de musique répétitive dans le thesaurus de la BNF ?
+    <skos:closeMatch rdf:resource="http://d-nb.info/gnd/4346530-4"/>
+
+-------------------------------------------------------------
+
+Quel est l’URI désignant la personne Philip Glass à la BNF ? (notez au passage le choix fait dans la création de ces URI)
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13894531f#about">
+
+Quel est l'URI complet du type associé à cet URI désignant la personne Philip Glass (tel qu’il est indiqué dans la description RDF de Philip Glass téléchargée) ?
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+
+Quel est l’acronyme du vocabulaire auquel appartient ce type ?
+    FOAF (Friend of a friend)
+
+Quelle est la propriété ayant "Glass" comme valeur ?
+    <foaf:familyName>Glass</foaf:familyName>
+
+Quel est l’URI désignant le concept SKOS de Philip Glass ?
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13894531f">
+
+Quel est le label alternatif du concept de Philip Glass ?
+    <skos:altLabel xml:lang="fr">Phil Glass</skos:altLabel>
+
+Quel est l’URI de la propriété reliant le concept de Philip Glass à la personne de Philip Glass ?
+    <foaf:focus rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+
+Quel est l’URI de la propriété reliant la personne Philip Glass et sa page HTML ?
+    <foaf:homepage rdf:resource="https://philipglass.com/"/>
+
+Quel est l’URI désignant son œuvre intitulée Metamorphosis ? (attention il existe plusieurs ressources intitulées Metamorphosis, une seule est relative à Philip Glass)
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13925901k#about">
+
+Quel est le nom préfixé de la propriété reliant cette œuvre à Philip Glass ?
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+
+Quel est l’acronyme de l’organisme qui publie le vocabulaire auquel appartient cette propriété ?
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    DCMI Metadata Terms

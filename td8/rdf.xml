@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:bnf-onto="http://data.bnf.fr/ontology/bnf-onto/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdau="http://rdaregistry.info/Elements/u/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45759003m#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb12513214g">
+    <skos:altLabel xml:lang="fr">Musique minimaliste</skos:altLabel>
+    <foaf:page rdf:resource="https://data.bnf.fr/12513214/musique_repetitive/"/>
+    <skos:inScheme rdf:resource="https://data.bnf.fr/vocabulary/rameau"/>
+    <skos:relatedMatch rdf:resource="http://id.loc.gov/authorities/subjects/sh86001706"/>
+    <skos:closeMatch rdf:resource="http://d-nb.info/gnd/4346530-4"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <owl:sameAs rdf:resource="http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12513214g"/>
+    <skos:closeMatch rdf:resource="http://dewey.info/class/780/"/>
+    <dcterms:created>1996-05-13</dcterms:created>
+    <dcterms:isPartOf rdf:resource="https://data.bnf.fr/vocabulary/rameau/r166"/>
+    <skos:prefLabel xml:lang="fr">Musique répétitive</skos:prefLabel>
+    <bnf-onto:FRBNF rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12513214</bnf-onto:FRBNF>
+    <skos:editorialNote xml:lang="fr">Dict. des mots de la musique / J. Siron, 2006. - . - La musique du XXe siècle / J.-N. Von der Weid, 1992. - . - Encycl. de la musique, 1995 : minimal music. - . -</skos:editorialNote>
+    <skos:broader rdf:resource="https://data.bnf.fr/ark:/12148/cb12192309w"/>
+    <skos:altLabel xml:lang="fr">Minimal music</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb12513214g"/>
+    <bnf-onto:domaine rdf:resource="https://data.bnf.fr/ark:/12148/cb133183660"/>
+    <skos:altLabel xml:lang="fr">Minimalisme (musique)</skos:altLabel>
+    <dcterms:modified>2019-10-25</dcterms:modified>
+    <rdau:P61160 rdf:resource="http://www.rdaregistry.info/termList/statIdentification/1001"/>
+    <skos:closeMatch rdf:resource="http://datos.bne.es/resource/XX550022"/>
+    <dcterms:isPartOf rdf:resource="https://data.bnf.fr/vocabulary/rameau/genre"/>
+    <skos:related rdf:resource="https://data.bnf.fr/ark:/12148/cb12272860s"/>
+    <skos:note xml:lang="fr">Musique fondée sur la répétition de très courts motifs mélodiques, harmoniques ou rythmiques</skos:note>
+    <skos:editorialNote xml:lang="fr">Encycl. universalis : musique répétitive ; minimalisme, musique ; musiques minimalistes et répétitives. - http://www.universalis-edu.com. - 2012-03-06 Dict. de la musique / M. Vignal, 2005 : musique répétitive ; minimalisme. - . -</skos:editorialNote>
+    <skos:broader rdf:resource="https://data.bnf.fr/ark:/12148/cb11961653k"/>
+    <skos:altLabel xml:lang="fr">Musique minimale</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41256974g#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/vocabulary/rameau/genre">
+    <skos:prefLabel xml:lang="en">Genre</skos:prefLabel>
+    <skos:member rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+    <rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#ConceptGroup"/>
+    <skos:prefLabel xml:lang="fr">Genre</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh86001706">
+    <skos:prefLabel>Minimal music</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb454271398#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41389087v#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45347088f/0#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb450041410#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42152353v#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb466226346#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb422062421#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42437075n#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb451984069#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39211641n#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42618075t#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb375028106#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38959557k#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb375384465#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb46614873x#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41023850h#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/vocabulary/rameau/">
+    <skos:prefLabel xml:lang="fr">RAMEAU (Répertoire d'autorité-matière encyclopédique et alphabétique unifié)</skos:prefLabel>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42132826x#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb442052275#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb358591018#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb456259876#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43865661k#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40204785x#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45133848w#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42564616v#about">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb12513214g"/>
+  </rdf:Description>
+</rdf:RDF>

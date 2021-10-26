@@ -1,0 +1,1824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:bnf-onto="http://data.bnf.fr/ontology/bnf-onto/"
+   xmlns:bnfroles="http://data.bnf.fr/vocabulary/roles/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:isni="http://isni.org/ontology#"
+   xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdaa="http://rdaregistry.info/Elements/a/"
+   xmlns:rdagroup2elements="http://rdvocab.info/ElementsGr2/"
+   xmlns:rdau="http://rdaregistry.info/Elements/u/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38432154g#Expression">
+    <bnfroles:r1567 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb396421994#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13894531f#about">
+    <foaf:givenName>Philip</foaf:givenName>
+    <rdaa:P50102 rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/64191786"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Philip%20Glass%201.jpg"/>
+    <rdaa:P50097 rdf:resource="http://id.loc.gov/vocabulary/countries/xxu"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Philip_Glass_1.jpg?width=300"/>
+    <foaf:name>Philip Glass</foaf:name>
+    <rdagroup2elements:biographicalInformation>Compositeur et musicien</rdagroup2elements:biographicalInformation>
+    <foaf:depiction rdf:resource="https://gallica.bnf.fr/ark:/12148/btv1b53126609g.thumbnail"/>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Philip_Glass_1.jpg"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Philip_Glass"/>
+    <foaf:gender>male</foaf:gender>
+    <owl:sameAs rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#foaf:Person"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdaa:P50113>Compositeur et musicien</rdaa:P50113>
+    <foaf:homepage rdf:resource="https://philipglass.com/"/>
+    <foaf:page rdf:resource="https://data.bnf.fr/13894531/philip_glass/"/>
+    <owl:sameAs rdf:resource="http://www.idref.fr/034623124/id"/>
+    <foaf:depiction rdf:resource="https://gallica.bnf.fr/ark:/12148/bpt6k1081300q/f5.item.thumbnail"/>
+    <foaf:familyName>Glass</foaf:familyName>
+    <rdagroup2elements:countryAssociatedWithThePerson rdf:resource="http://id.loc.gov/vocabulary/countries/xxu"/>
+    <bnf-onto:firstYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1937</bnf-onto:firstYear>
+    <rdagroup2elements:languageOfThePerson rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38381356b#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38381288p#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40103990n#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41431786n#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39064980s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb467611399#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39266256t#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381456548#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41301308z#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb46680428g#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb382614472#Expression">
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1380 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1599 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381158039#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1590 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38519731x#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38116469c#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14045481p#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb46719950x#Expression">
+    <bnfroles:r1590 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13894531f">
+    <foaf:focus rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <rdau:P61160 rdf:resource="http://www.rdaregistry.info/termList/statIdentification/1001"/>
+    <skos:prefLabel xml:lang="fr">Philip Glass</skos:prefLabel>
+    <skos:note xml:lang="fr">Compositeur et musicien</skos:note>
+    <rdfs:seeAlso rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb13894531f"/>
+    <skos:editorialNote xml:lang="fr">Grove 6. - . - LCNA (CD), 1996-06. - . - GDEL. - . -</skos:editorialNote>
+    <skos:exactMatch rdf:resource="http://www.idref.fr/034623124"/>
+    <skos:altLabel xml:lang="fr">Phil Glass</skos:altLabel>
+    <rdfs:seeAlso rdf:resource="http://fr.wikipedia.org/wiki/Philip_Glass"/>
+    <bnf-onto:FRBNF rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13894531</bnf-onto:FRBNF>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <bnf-onto:isniAttributionDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-17</bnf-onto:isniAttributionDate>
+    <skos:exactMatch rdf:resource="http://wikidata.org/entity/Q189729"/>
+    <skos:exactMatch rdf:resource="http://isni.org/isni/0000000121367029"/>
+    <dcterms:created>1989-06-01</dcterms:created>
+    <owl:sameAs rdf:resource="https://www.human-music.eu/person/glassph"/>
+    <skos:exactMatch rdf:resource="https://musicbrainz.org/artist/5ae54dee-4dba-49c0-802a-a3b3b3adfe9b"/>
+    <skos:exactMatch rdf:resource="http://fr.wikipedia.org/wiki/Philip_Glass"/>
+    <bnf-onto:isniAttributionAgency>ISNI</bnf-onto:isniAttributionAgency>
+    <skos:exactMatch rdf:resource="http://fr.dbpedia.org/resource/Philip_Glass"/>
+    <dcterms:modified>2021-06-11</dcterms:modified>
+    <skos:exactMatch rdf:resource="https://www.human-music.eu/person/glassph"/>
+    <skos:editorialNote xml:lang="fr">North star [Enregistrement sonore] / Philip Glass comp. VIRGIN V2085. - . - Dict. biogr. des musiciens / Baker, Slonimsky, 1995. - . -</skos:editorialNote>
+    <skos:exactMatch rdf:resource="http://viaf.org/viaf/64191786/"/>
+    <isni:identifierValid>0000000121367029</isni:identifierValid>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38374058q#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42699228r#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13925901k#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45766623c#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb458418731#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38394672b#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38366364r#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38427364b#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb16715057k#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13983752p#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38247875f#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139259038#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb385104804#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb391213515#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45168389x#Expression">
+    <marcrel:cnd rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1040 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r920 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb37799512z#Expression">
+    <bnfroles:r1599 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14821183j#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381129224#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41382591s#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39121349m#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45423294q#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb385655067#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13912511v#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41102353p#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb44376464s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38455625d#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38513224t#Expression">
+    <marcrel:cnd rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1040 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42557515r#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb384255919#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38957928m#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39277958w#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38037694m#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r990 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cnd rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1040 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39497323b#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb44386668x#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45216898x#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42296418k#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139646558#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38179776f#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb384673645#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39115289b#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41351786w#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb422964502#Expression">
+    <bnfroles:r70 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb380247970#Expression">
+    <bnfroles:r1597 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38600926p#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41250585k#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42296424h#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42236383h#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb412362117#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42632373x#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb435394208#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41276778q#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381206748#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb444522494#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139847836#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40028866z#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41329706q#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb466147849#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb423528558#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38415671r#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39497276n#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38209344f#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb384511717#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38052432q#Expression">
+    <bnfroles:r1567 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r990 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb456119186#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb426704699#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r920 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb391661880#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38952842p#Expression">
+    <bnfroles:r1599 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42501979m#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb466559707#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38454750n#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381333464#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb384208014#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb411122857#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb453489498#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb438798859#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb385239390#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43363410s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38423086v#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38554836j#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45652926w#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38116848h#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38159369n#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38429093k#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb420206402#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb384289093#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45527423w#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb44312665g#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43846739h#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38950230j#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb16217923c#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381979371#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40028868n#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41303801d#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb386219986#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb426987026#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43513525d#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb44442578b#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38461310s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39643381v#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41465929z#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40028860w#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb398331896#Expression">
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r110 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45406022m#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43539303d#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38427365p#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38951576x#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb383120073#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb442678146#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42296388g#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14821186k#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42758974z#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:egr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r410 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42767762c#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb382486754#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13978968m#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39497498h#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb454008618#Expression">
+    <bnfroles:r920 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb383487460#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45158701k#Expression">
+    <bnfroles:r222 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43799227q#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r222 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb436645653#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb410844083#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb46674709s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb16145458m#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41192629h#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb46568768w#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb410944298#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb44276897p#Expression">
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r70 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38504653j#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb382997792#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb455120748#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38147465v#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41348579j#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45336397s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40047471m#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14026999z#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42579019n#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13999967x#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42415916q#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139513785#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb452084596#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb420977038#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14004850f#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14821184w#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43727350k#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb17943037k#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45716756k#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb382614608#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1599 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/13894531/philip_glass/studies">
+    <dcterms:subject rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb450158254#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb140356931#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43566929n#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39178004j#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb425113675#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45213379j#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r222 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38121023z#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14029340c#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38140505k#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41123162r#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb392471431#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb452172379#Expression">
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r70 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb453912517#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38398621d#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13951374s#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42093154j#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40028862k#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38362967g#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38952832c#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38024784n#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1599 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb412365650#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381168475#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45115561b#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38505860m#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38121464n#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb458430692#Expression">
+    <bnfroles:r1567 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb383258375#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38261208m#Expression">
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb46649015c#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb457017356#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38262984w#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42432298n#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb389578855#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38462206h#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb453507479#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43675265q#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38550989f#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb385798632#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:ant rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r72 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb44447486w#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb382726817#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42069188p#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb37634724w#Expression">
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r70 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb454035646#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb17882265s#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45817287w#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb413746335#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb383253860#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38183550z#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb392963243#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139789678#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45818502r#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38133233h#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45769877k#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381707679#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb439093682#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38957940g#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42432485v#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb438052648#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb382628044#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb424741751#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb436661884#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43553216f#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381570560#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40166557p#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38103509v#Expression">
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1569 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1760 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43994218w#Expression">
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r70 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41403242h#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb422964595#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39642198s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb40210904w#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r920 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381047414#Expression">
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1567 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139513754#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38405326w#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41294355w#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb401385117#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42075212z#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb382568893#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb382508571#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14004851s#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42728094g#Expression">
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r70 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38118580n#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38382719g#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38257746s#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42033542d#Expression">
+    <bnfroles:r550 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:aui rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb466130159#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38142162s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb412925460#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb389502207#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38261006c#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38205979s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39497326c#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13978966x#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139229324#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45681273v#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38356517k#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb16217879q#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38424734s#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb436979270#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r1560 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38523956k#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42296439j#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r70 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38364142d#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb414858351#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb148211857#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39121455t#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45361467j#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb437602079#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb381452425#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38235091s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39497132r#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:lbt rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r470 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43804855q#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38537914t#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38420800s#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38507368g#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38547436z#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38125929g#Expression">
+    <bnfroles:r1567 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42699231n#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb451167060#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38171434r#Expression">
+    <bnfroles:r1567 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:itr rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139871013#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb140280780#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38265010k#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14479631z#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38321650v#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13964654x#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42296404w#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38288114c#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38458759q#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38558040j#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45538799d#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39642197f#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38171815k#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13987099c#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13912510h#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13925902x#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb43608053f#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb383991667#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14007143z#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb411769187#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb383614190#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb467649335#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38272717d#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb453479956#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb162179252#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb17898314t#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb17910227g#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42572402b#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb16714981p#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38398622r#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb148211826#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb145506604#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45344061p#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb140356900#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb15852854w#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38219005x#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14035692p#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38399354s#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb45342874r#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38951989c#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38123015t#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38951998b#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cc588828/ca540#Expression">
+    <bnfroles:r110 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:aut rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38923713f#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb384905321#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38488595n#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41249919v#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb46666230h#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38133548c#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb15074570t#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14853893w#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb144588268#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb16269814n#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb467088568#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb14853887z#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb389579514#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13912514w#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb400488175#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb44268539z#Expression">
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb148198418#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb41305397c#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139646589#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb39231463t#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13978969z#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb452647417#Expression">
+    <bnfroles:r222 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb140223609#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139789705#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb42612860j#Expression">
+    <bnfroles:r220 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:cmp rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139454666#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139125126#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13912513j#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139573209#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139646527#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb162178818#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb140030682#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb394920986#Expression">
+    <dcterms:contributor rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <marcrel:lbt rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <bnfroles:r470 rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13983751b#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13987268n#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13987266z#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139125099#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13945468w#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13964656m#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb16163545g#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139644849#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb171186572#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb17838580x#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb139573193#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13964773g#about">
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+  </rdf:Description>
+</rdf:RDF>

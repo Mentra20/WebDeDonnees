@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:bnf-onto="http://data.bnf.fr/ontology/bnf-onto/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdagroup1elements="http://rdvocab.info/Elements/"
+   xmlns:rdam="http://rdaregistry.info/Elements/m/"
+   xmlns:rdarelationships="http://rdvocab.info/RDARelationshipsWEMI/"
+   xmlns:rdau="http://rdaregistry.info/Elements/u/"
+   xmlns:rdaw="http://rdaregistry.info/Elements/w/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13925901k#about">
+    <rdau:P61160 rdf:resource="http://www.rdaregistry.info/termList/statIdentification/1001"/>
+    <dcterms:creator rdf:resource="https://data.bnf.fr/ark:/12148/cb13894531f#about"/>
+    <rdagroup1elements:statusOfIdentification xml:lang="en">fully established</rdagroup1elements:statusOfIdentification>
+    <rdf:type rdf:resource="http://rdvocab.info/uri/schema/FRBRentitiesRDA/Work"/>
+    <rdagroup1elements:dateOfWork rdf:resource="https://data.bnf.fr/date/1988/"/>
+    <ore:aggregates rdf:resource="https://data.bnf.fr/ark:/12148/cb148211826#about"/>
+    <dcterms:title xml:lang="la">Metamorphosis</dcterms:title>
+    <rdagroup1elements:formOfWork rdf:resource="http://data.bnf.fr/vocabulary/work-form/tum"/>
+    <rdfs:label>Metamorphosis</rdfs:label>
+    <ore:aggregates rdf:resource="https://data.bnf.fr/ark:/12148/cb14821184w#about"/>
+    <rdaw:P10219 rdf:resource="https://data.bnf.fr/date/1988/"/>
+    <rdaw:P10004 rdf:resource="http://data.bnf.fr/vocabulary/work-form/tum"/>
+    <ore:aggregates rdf:resource="https://data.bnf.fr/ark:/12148/cb14821183j#about"/>
+    <ore:aggregates rdf:resource="https://data.bnf.fr/ark:/12148/cb14821186k#about"/>
+    <mo:genre rdf:resource="http://data.bnf.fr/vocabulary/musical-genre/uu"/>
+    <owl:sameAs rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#frbr:Work"/>
+    <bnf-onto:firstYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1988</bnf-onto:firstYear>
+    <dcterms:description xml:lang="fr">Comprend 5 mouvements. - Les pièces 1 et 2 reprennent des thèmes de la musique du film d'Errol Morris "The thin blue line" ; les pièces 3 et 4 proviennent de la musique d'accompagnement écrite pour des adaptations théâtrales du roman de Franz Kafka "Die Verwandlung"</dcterms:description>
+    <rdf:type rdf:resource="http://rdaregistry.info/Elements/c/C10001"/>
+    <ore:aggregates rdf:resource="https://data.bnf.fr/ark:/12148/cb148211857#about"/>
+    <dcterms:description xml:lang="fr">Date de composition : 1988</dcterms:description>
+    <dcterms:date>1988</dcterms:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38957940g#about">
+    <rdarelationships:workManifested rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+    <rdam:P30135 rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38179776f/0#about">
+    <rdarelationships:workManifested rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+    <rdam:P30135 rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb13925901k">
+    <foaf:focus rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+    <skos:editorialNote xml:lang="fr">Philipp Glass. - http://www.philipglass.com/. - 2015-02-19 Ircam. - http://brahms.ircam.fr/. - 2015-02-19</skos:editorialNote>
+    <foaf:page rdf:resource="https://data.bnf.fr/13925901/philip_glass_metamorphosis/"/>
+    <rdfs:seeAlso rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb13925901k"/>
+    <skos:prefLabel xml:lang="la">Metamorphosis</skos:prefLabel>
+    <skos:exactMatch rdf:resource="http://viaf.org/viaf/309560425/"/>
+    <bnf-onto:FRBNF rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13925901</bnf-onto:FRBNF>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:exactMatch rdf:resource="https://www.human-music.eu/work/49144"/>
+    <skos:note xml:lang="fr">Comprend 5 mouvements. - Les pièces 1 et 2 reprennent des thèmes de la musique du film d'Errol Morris "The thin blue line" ; les pièces 3 et 4 proviennent de la musique d'accompagnement écrite pour des adaptations théâtrales du roman de Franz Kafka "Die Verwandlung"</skos:note>
+    <dcterms:modified>2016-04-04</dcterms:modified>
+    <skos:note xml:lang="fr">Date de composition : 1988</skos:note>
+    <dcterms:created>1990-04-23</dcterms:created>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb38454750n/0#about">
+    <rdam:P30135 rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+    <rdarelationships:workManifested rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bnf.fr/ark:/12148/cb383258375/1#about">
+    <rdarelationships:workManifested rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+    <rdam:P30135 rdf:resource="https://data.bnf.fr/ark:/12148/cb13925901k#about"/>
+  </rdf:Description>
+</rdf:RDF>
